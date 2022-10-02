@@ -16,5 +16,6 @@ language and the one I use the most!
 
 ## What I Believe
 > No pain No gain!
+
 I believe most people what to live in a comfortable way. However, life will never act the way we want. It is a fair trade-off. The more effort we show, the more we can get. 
 
