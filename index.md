@@ -19,3 +19,8 @@ language and the one I use the most!
 
 I believe most people what to live in a comfortable way. However, life will never act the way we want. It is a fair trade-off. The more effort we show, the more we can get. 
 
+## The Most Important Things For Me
+1. Sleep
+2. Eat 
+3. Study
+4. Cat!!!!!!([It is my cat!](WechatIMG251.jpeg))
