@@ -26,4 +26,9 @@ I believe most people what to live in a comfortable way. However, life will neve
 3. Study
 4. Cat!!!!!!([It is my cat!](WechatIMG251.jpeg))
 
+## What's Next
+[x] 124AR Week 1 homework
+[ ] 110 Project
+[ ] 108 Project
+
 [Back To Top](#welcome-to-my-page)
