@@ -3,6 +3,7 @@
 
 ## About Me
 My name is **Zelong Zhou**, and I am an UCSD student majoring in **Computer Science**. 
+Here is my github [profile](https://github.com/Arlong-Z)
 
 ## Where I started
 Nothing surprising, ```Printf("Hello World)``` is the first code that guid me into the world of 
@@ -25,4 +26,4 @@ I believe most people what to live in a comfortable way. However, life will neve
 3. Study
 4. Cat!!!!!!([It is my cat!](WechatIMG251.jpeg))
 
-[back to top](#welcome-to-my-page)
+[Back To Top](#welcome-to-my-page)
